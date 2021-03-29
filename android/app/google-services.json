@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88083170240",
+    "project_id": "clinicmanagementapp",
+    "storage_bucket": "clinicmanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88083170240:android:84c22934afabb8e0117e25",
+        "android_client_info": {
+          "package_name": "com.medotis.medotisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88083170240-la58sm1msjgnhhss7q05svek8umjiuns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2UkRMBFayuqgjfnVieEHtBHwSGxWzsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88083170240-la58sm1msjgnhhss7q05svek8umjiuns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
